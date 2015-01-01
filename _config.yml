@@ -1,0 +1,25 @@
+markdown: rdiscount
+permalink: /:categories/:title.html
+url: 
+lsi: false
+highlighter: true
+safe: true
+auto: false 
+
+paginate: 8
+paginate_path: "page:num"
+
+# presonal config
+title: 一个人の童话
+description: karchi's Blog, 但其实真实命运很少写得这么吸引
+feed: http://www.winfirm.cn/atom.xml
+
+author: karchi
+
+seo: 
+  keyword: 
+  description: 
+config:
+  js_dir:
+  img_dir:
+  css_dir:
