@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /:categories/:title.html
+permalink: /:categories/:year/:month/:day/:title.html
 url: 
 lsi: false
 highlighter: true
@@ -12,9 +12,10 @@ paginate_path: "page:num"
 # presonal config
 title: 一个人の童话
 description: karchi's Blog, 但其实真实命运很少写得这么吸引
-feed: http://www.winfirm.cn/atom.xml
+feed: /atom.xml
 
 author: karchi
+author_info: <a href="https://github.com/karchi">karchi</a>
 
 seo: 
   keyword: 

@@ -10,6 +10,7 @@ title: "一个人の童话"
 {% include recommend.html %} 
 
 <!-- Loop output paged posts -->
+<!-- 此处可参考：http://jekyllrb.com/docs/posts/#displaying-an-index-of-posts -->
 {% for post in paginator.posts %}
 <h2>
   <a href="{{ post.url }}">
