@@ -4,15 +4,21 @@ title: "问答：Faqs"
 ---
 
 备忘录
+======
 
 ####建blog小tips：
 1. 生成文件目录树：`tree [e:\blog\] /F>>list.txt`
 2. `<span class="glyphicon glyphicon-time"></span>` 会插入一个小时钟<span class="glyphicon glyphicon-time"></span>。
+3. 评论  
+> 	\< !-- Blog Comments -->  
+> 	\< div class="media">  
+> 	\{ % include comment.html %}   
+> 	\< /div>  
 
 <br>
 
 ####网址收藏：
-1,Markdown语法：<http://wowubuntu.com/markdown/basic.html>  
+1,Markdown语法：<http://wowubuntu.com/markdown/basic.html>、<http://xuexiii.org/wiki/index.php/Markdown>  
 2,git文章收藏:  
 Git分支管理策略: <http://www.ruanyifeng.com/blog/2012/07/git.html>    
 Git查看、删除、重命名远程分支和tag: <http://zengrong.net/post/1746.htm>

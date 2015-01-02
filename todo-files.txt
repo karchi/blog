@@ -1,14 +1,14 @@
 文件夹 PATH 列表
 卷序列号为 00000200 DC56:42AF
 E:.
-│  .gitignore
-│  404.html
-│  about.md
+│  .gitignore（已检查！）
+│  404.html（已检查！可添加其他404页面的有趣内容。）
+│  about.md（已检查！）
 │  archives.md
 │  atom.xml
 │  categories.md
-│  CNAME
-│  faqs.md(作为备忘录可随时修改。要修改文件名和首页上的名称吗？)
+│  CNAME（已检查！）
+│  faqs.md(已检查！作为备忘录可随时修改。要修改文件名和首页上的名称吗，怕影响引用？)
 │  index.html
 │  README.md
 │  tags.md
@@ -37,7 +37,7 @@ E:.
 │      comment.html
 │      copyright.html
 │      links.html
-│      navigation.html
+│      navigation.html（已检查页面顶端banner！）
 │      recommend.html
 │      search.html
 │      

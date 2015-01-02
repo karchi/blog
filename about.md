@@ -1,35 +1,9 @@
 ---
 layout: default
-title: "关于：About"
+title: "关于"
 ---
-####Basic Info
-My name is Pan Xuewen, I'm 29, married, living in Hongshan, Wuhan.  
+####个人介绍
+karchi：扮文藝青年,志願計算參與者,技術宅未遂,獨奏团,收藏癖,古典控,拖延症患者,認真黨,長反射弧打個結,豌豆小王子,一隻小白,已通過圖靈測試。
 
-####IT skills
-1.4 years experience in Android application development, team leader of 10+ enterprise level Application.  
-2.1 year experience in Embedded Linux Porting and construction.  
-3.Familiar with Java/C/C++, JNI/NDK, and common design Patterns.  
-4.Well Knowledge of html/WML, css, jsp, php, SEO, and site building.  
-5.Experienced with version control tools such as SVN, and GIT.  
-6.Strong ability of development problems analysing and solving.  
-7.Good at English speaking,writing and reading.  
-8.Learning Cocos2d-JS...  
-
-####Work Experience
-2014/09--Present  Fun.tv(Wuhan) Technology Co.,Ltd  
-Android Software Development Engineer  
-
-2011/11--2014/08  Whan Qdone Network Technology Co.,Ltd  
-Android Development Engineer  
-
-2011/07--2011/10  Wuhan Tianyu Communication Technology Co.,Ltd  
-Android Development Engineer  
-
-####Links
-Blog    <http://www.winfirm.cn>  
-GitHub  <https://github.com/panxw>  
-
-<!-- Blog Comments -->
-<div class="media">
-  {% include comment.html %} 
-</div>
+新浪微博：<http://weibo.com/merlinl>  
+GitHub  <https://github.com/karchi>  
