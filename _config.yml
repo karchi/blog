@@ -1,6 +1,7 @@
 markdown: rdiscount
 permalink: /:categories/:year/:month/:day/:title.html
 url: 
+# 参见http://jekyllrb.com/docs/variables/#site-variables
 lsi: false
 highlighter: true
 safe: true

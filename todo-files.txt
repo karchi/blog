@@ -4,9 +4,9 @@ E:.
 │  .gitignore（已检查！）
 │  404.html（已检查！可添加其他404页面的有趣内容。）
 │  about.md（已检查！）
-│  archives.md（已检查归档或目录！以后可慢慢修改格式。）
+│  archives.md（已检查归档或目录！添加年份篇数计数器。）
 │  atom.xml（已检查！应该是RSS输出，以后慢慢修改。nil不可改为post？）
-│  categories.md
+│  categories.md（已检查，这是顶部“分类”页的，不是右边分类栏的。）
 │  CNAME（已检查！）
 │  faqs.md(已检查！作为备忘录可随时修改。要修改文件名和首页上的名称吗，怕影响引用？)
 │  index.html
