@@ -6,28 +6,33 @@ layout: default
 <h2>
   {{ page.title }}
   <div class="post-date">
-	<span class="glyphicon glyphicon-time"></span>
-	{{ page.date | date_to_string }}
+	{{ site.author_info }}发表于{{ page.date | date:"%Y-%m-%d %H:%M" }}
   </div>
 </h2>
 <!-- Author -->
 <hr>
+<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">版权声明</a>：转载时请以超链接形式标明文章原始出处和作者信息
+<br/>
+{{page.url}}
+<br/>
+<br/>
 {{ content }}
 <br/>
 <div style="margin-top:10px;margin-bottom:10px">
   {%if page.previous%}
   <span class="next">
-    上篇：
+    
     <a href="{{page.previous.url}}">
-      {{page.previous.title}}
+      上一篇：{{page.previous.title}}
     </a>
   </span>
   {%endif%} 
+  &nbsp;|&nbsp; <a href="/index.html">首页</a> &nbsp;|&nbsp;
   {%if page.next%}
   <span class="prev">
-    下篇：
+    
     <a href="{{page.next.url}}">
-      {{page.next.title}}
+     下一篇：{{page.next.title}}
     </a>
   </span>
   {%endif%}

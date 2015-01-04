@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 url: 
 # 参见http://jekyllrb.com/docs/variables/#site-variables
 lsi: false
@@ -7,7 +7,8 @@ highlighter: true
 safe: true
 auto: true 
 
-paginate: 8
+# 参见http://jekyllrb.com/docs/pagination/
+paginate: 10
 paginate_path: "page:num"
 
 # presonal config
@@ -16,7 +17,7 @@ description: karchi's Blog, 但其实真实命运很少写得这么吸引
 feed: /atom.xml
 
 author: karchi
-author_info: <a href="https://github.com/karchi">karchi</a>
+author_info: <a href="/about.html">karchi</a>
 
 seo: 
   keyword: 

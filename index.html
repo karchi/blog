@@ -2,11 +2,7 @@
 layout: default
 title: "一个人の童话"
 ---
-<h1 class="page-header">
-  <small>
-    但其实真实命运很少写得这么吸引
-  </small>
-</h1>
+
 {% include recommend.html %} 
 
 <!-- Loop output paged posts -->
@@ -17,35 +13,47 @@ title: "一个人の童话"
     {{ post.title }}
   </a> 
   <div class="post-date">
-	<span class="glyphicon glyphicon-time"></span>
-	{{ post.date | date_to_string }}
+	<a href="/about.html">karchi</a>发表于{{ post.date | date:"%Y-%m-%d %H:%M" }}
   </div>
 </h2>
 <hr>
 {{ post.excerpt }}
-	<p> <a href="{{ post.url }}"><span >阅读全文 &raquo; </span></a></p>
+	<p> <a href="{{ post.url }}"><span >阅读全文 >> </span></a></p>
 <hr>
+<br />
 {% endfor %}
 
-<!-- Pager indicator -->
-<ul class="pager">
-  {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}
-  <li class="previous">
-    <a href="{{ site.url }}/">
-      &larr; Older
-    </a>
-  </li>
+<!-- 分页 -->
+<!-- 以下参考http://jekyllrb.com/docs/pagination/ 翻页内容的底部 -->
+
+共{{ paginator.total_pages }}页
+
+{% if paginator.total_pages > 1 %} 
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/index.html">&laquo; 前一页</a>
+	  {% else %}
+      <a href="{{ site.url }}/page{{ paginator.previous_page }}">&laquo; 前一页</a>
+    {% endif %}	
   {% else %}
-  <li class="previous">
-    <a href="{{ site.url }}/page{{ paginator.previous_page }}">
-      &larr; Older
-    </a>
-  </li>
-  {% endif %} {% endif %} {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ site.url }}/page{{ paginator.next_page }}">
-      Newer &rarr;
-    </a>
-  </li>
+    <span>第一页</span>
   {% endif %}
-</ul>
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="/index.html">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.url }}/page{{ page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ site.url }}/page{{ paginator.next_page }}">后一页 &raquo;</a>
+  {% else %}
+    <span>最后一页</span>
+  {% endif %}
+</div>
+{% endif %}
