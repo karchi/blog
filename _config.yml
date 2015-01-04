@@ -1,5 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title.html
+baseurl: /blog
 url: 
 # 参见http://jekyllrb.com/docs/variables/#site-variables
 lsi: false

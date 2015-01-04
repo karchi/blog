@@ -46,54 +46,5 @@ E:.
 │      post.html（已检查！添加“历史上的今天”？添加“分享到”按钮？）
 │      
 ├─_posts
-│      2010-01-01-which-more-important.markdown
-│      2014-07-25-chrome-honx-vpn.markdown
-│      2014-08-28-android-json-trouble.markdown
-│      2014-10-12-cocos-multi-resolution-support.md
-│      2014-12-20-http-protocol-review.md
-│      2014-12-27-get-latest-msysgit.md
 │      
-└─_site
-    │  404.html
-    │  about.html
-    │  archives.html
-    │  atom.xml
-    │  categories.html
-    │  CNAME
-    │  faqs.html
-    │  index.html
-    │  README.md
-    │  tags.html
-    │  tree20150101.txt
-    │  
-    ├─android
-    │      android-json-trouble.html
-    │      
-    ├─cocos2d
-    │      cocos-multi-resolution-support.html
-    │      
-    ├─css
-    │      blog.css
-    │      bootstrap.min.css
-    │      
-    ├─fonts
-    │      glyphicons-halflings-regular.eot
-    │      glyphicons-halflings-regular.svg
-    │      glyphicons-halflings-regular.ttf
-    │      glyphicons-halflings-regular.woff
-    │      
-    ├─js
-    │      bootstrap.js
-    │      bootstrap.min.js
-    │      jquery-1.11.0.js
-    │      
-    ├─network
-    │      chrome-honx-vpn.html
-    │      get-latest-msysgit.html
-    │      
-    ├─reading
-    │      which-more-important.html
-    │      
-    └─web
-            http-protocol-review.html
-            
+└─
