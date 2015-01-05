@@ -3,7 +3,7 @@ layout: post
 title: "解决git bash里无法粘贴的问题"
 categories: ["技术"]
 tags: ["git","msysgit","问题","命令行","粘贴","技巧"]
-date: 2014-11-29 17:26:00 +0800
+date: 2014-11-29 17:26:00
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今天安装了msysGit，使用git bash命令行模式的时候遇到了一个问题：不能粘贴！这么长的git项目地址如果手打既不方便又容易打错。想起windows的命令行模式是可以复制粘贴的，git bash的界面类似，会不会也能做到呢？于是Karchi我上网查找了一下，终于有所突破。
 

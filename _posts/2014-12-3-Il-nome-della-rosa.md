@@ -3,7 +3,7 @@ layout: post
 title: "《玫瑰的名字》读后"
 categories: ["阅读"]
 tags: ["文学","小说"]
-date: 2014-12-3 21:28:00 +0800
+date: 2014-12-3 21:28:00
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大学时karchi我听过一个讲座，讲师提及一本书叫《玫瑰的名字》。当时热映的电影是[《达芬奇密码》](http://movie.douban.com/subject/1329950/)，讲师说，《玫瑰的名字》与《达芬奇密码》齐名，也是一部关于宗教、符号学、侦探推理的小说。在那时候我就埋下了对这部作品好奇的种子。
 

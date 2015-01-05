@@ -3,7 +3,7 @@ layout: post
 title: "什么是可交换债券"
 categories: ["投资"]
 tags: ["投资","债券"]
-date: 2014-12-27 17:47:00 +0800
+date: 2014-12-27 17:47:00
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;宝钢集团拟公开发行 40 亿元新华保险可交换债，那么问题来了：什么是可交换债？可交换债跟可转债有什么不同？
 

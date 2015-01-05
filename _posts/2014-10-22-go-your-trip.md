@@ -3,7 +3,7 @@ layout: post
 title: "《去，你的旅行》"
 categories: ["阅读"]
 tags: ["阅读","散文","游记","文学","旅行"]
-date: 2014-10-22 12:50:00 +0800
+date: 2014-10-22 12:50:00
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一次听说阿sam这个人，是在blog上，阿sam用的也是bus。当时比较有名气的blog会在网站首页上展示，阿sam的blog也是其中之一。他是杂志编辑，本身就是舞文弄墨的人，加上照片拍得清新，自然拥有一大批粉丝。
 
