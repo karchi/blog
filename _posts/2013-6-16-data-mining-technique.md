@@ -17,4 +17,4 @@ date: 2013-6-16 17:39:00
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看完以后karchi我对于聚类和分类的区别还不是很清楚啊。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;豆瓣地址：[](http://book.douban.com/subject/1121784/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;豆瓣地址：[http://book.douban.com/subject/1121784/](http://book.douban.com/subject/1121784/)
