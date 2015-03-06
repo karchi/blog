@@ -17,3 +17,5 @@ excerpt: "这本《阴翳礼赞》是谷崎润一郎的散文随笔集，其中�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;适逢国庆，karchi我读了其中的《旅行杂话》一篇。与一些人的看法一样，作者也认为“探路者”即使发现了好的旅游景点，也不要到处宣传，否则会造成这个目的地被过分改造而变味。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《阴翳礼赞》豆瓣链接：<http://book.douban.com/subject/4151117/>
+
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=ruicao987-23&o=28&p=8&l=as1&asins=986235061X&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

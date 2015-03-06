@@ -13,6 +13,6 @@ date: 2014-10-22 12:50:00
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;旅行，不同于简单的看风景。跳出日复一日的重复，远离熟悉的舒适区，让真实的自己浮出水面。更重要的是，和你一起去旅行的人。
 
-![封面](http://img5.douban.com/lpic/s7000219.jpg)
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=ruicao987-23&o=28&p=8&l=as1&asins=B00KMPYBOE&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;豆瓣链接： [《去，你的旅行》](http://book.douban.com/subject/6845414/)

@@ -7,7 +7,7 @@ date: 2014-10-19 12:24:00
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这段时间karchi我越来越感受到，太阳底下没有新鲜事。历史即未来，为了预测未来必须要看到过去。
 
-![封面](http://img3.douban.com/lpic/s27351873.jpg)
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=ruicao987-23&o=28&p=8&l=as1&asins=B00M1JQJWG&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在图书馆读完这本《定价未来：撼动华尔街的量化金融史》（难以置信karchi我竟然一次性读完这么厚的书）。此书主要介绍了期权定价技术的发展史，同时也是一部血泪史：序言中讲述的二战时期那个故事是真真切切的血泪。从荷兰郁金香热讲到近代斯科尔斯期权定价模型，随着时代步伐的前进，人们对于金融衍生品定价的认识在不断发展，政治、数学、甚至物理、化学等学科都对其发展起到推动作用。这是一部关于奋斗和创新的发展史，同时也是一个关于贪婪与傲慢的故事。无论定价计算得多精确，都没办法将人性计算得清楚。
 

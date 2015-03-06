@@ -20,3 +20,5 @@ date: 2013-8-10 11:32:00
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“非不语也，盖有未易语者耳。”
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;豆瓣链接：http://book.douban.com/subject/5397674/
+
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=ruicao987-23&o=28&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B004KJES0A" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>

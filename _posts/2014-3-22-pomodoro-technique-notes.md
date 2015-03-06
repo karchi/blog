@@ -43,4 +43,6 @@ date: 2014-3-22 13:39:00
 
 - 番茄钟让你感到奖励就在眼前，而且与最终目标越来越接近。
 
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=ruicao987-23&o=28&p=8&l=as1&asins=B004O9F71K&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《番茄工作法图解》豆瓣链接：<http://book.douban.com/subject/5916234/>

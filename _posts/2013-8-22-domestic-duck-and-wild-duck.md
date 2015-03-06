@@ -44,3 +44,5 @@ date: 2013-8-22 11:19:00
 > 7. 反正人迟早会死，不乐观点怎么撑得下去。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;豆瓣链接：[http://book.douban.com/subject/6041089/](http://book.douban.com/subject/6041089/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;亚马逊购买链接：<a target="_blank" href="http://www.amazon.cn/gp/search?ie=UTF8&camp=536&creative=3200&index=aps&keywords=%E5%AE%B6%E9%B8%AD%E4%B8%8E%E9%87%8E%E9%B8%AD%E7%9A%84%E6%8A%95%E5%B8%81%E5%BC%8F%E5%AF%84%E7%89%A9%E6%9F%9C&linkCode=ur2&tag=ruicao987-23">《家鸭与野鸭的投币式寄物柜》</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=ruicao987-23&l=ur2&o=28" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

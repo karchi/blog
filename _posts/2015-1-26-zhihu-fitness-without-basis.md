@@ -26,4 +26,7 @@ date: 2015-1-26 21:05:20
 
 > 教育的方式有很多，不打骂不代表没有控制力。很多朋友也提到了，中国家长的打骂，有时候并不是必要的教育手段，而只是自身的发泄而已。这是我们必须要杜绝的。
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《知乎周刊:无基础健身》可在亚马逊网站上买到[kindle电子版](http://www.amazon.cn/%E7%9F%A5%E4%B9%8E%E5%91%A8%E5%88%8A%C2%B7%E6%97%A0%E5%9F%BA%E7%A1%80%E5%81%A5%E8%BA%AB-%E7%9F%A5%E4%B9%8E/dp/B00F5UANG6/)。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《知乎周刊:无基础健身》可在亚马逊网站上免费获得kindle电子版。
+
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=ruicao987-23&o=28&p=8&l=as1&asins=B00F5UANG6&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+

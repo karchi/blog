@@ -7,6 +7,8 @@ date: 2014-12-3 21:28:00
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大学时karchi我听过一个讲座，讲师提及一本书叫《玫瑰的名字》。当时热映的电影是[《达芬奇密码》](http://movie.douban.com/subject/1329950/)，讲师说，《玫瑰的名字》与《达芬奇密码》齐名，也是一部关于宗教、符号学、侦探推理的小说。在那时候我就埋下了对这部作品好奇的种子。
 
+<iframe src="http://rcm-cn.amazon-adsystem.com/e/cm?t=ruicao987-23&o=28&p=8&l=as1&asins=B003APZGTW&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如今时隔多年，终于在图书馆借来此书阅读，深深感受到作者学识之渊博。虽然书中已描述过大量背景知识，例如宗教和历史背景，但理解下来还是吃力。也许是跟现代人的观念有所不同，也许是宗教背景的不同，书中人物在辩论时是最难理解的部分。在karchi我看来像是无稽之谈，或者是无足轻重的观点，但书中人物却辩论个你死我活，甚至不惜以死相搏，由此引发几桩命案。
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说到案件部分，karchi认为推理侦探并不是全书重点。死者的被害手法让karchi我联想起 [《但丁俱乐部》](http://book.douban.com/subject/1315166/) ，也是按照某部著作所描述的那样死去，侦探主人公以此为线索追寻凶手。与一般侦探小说不同的是，这几起命案既有人为因素也有偶然因素，不落窠臼，读起来更加引人入胜。
@@ -18,7 +20,5 @@ date: 2014-12-3 21:28:00
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;豪尔赫对于“真理”的狂热，在现在看来似乎有点抱残守缺。但历史往往总是相似的，这不禁让karchi我想起当初微博大行其道，网络上有不少关于“科技的发展是否让我们更加浅薄”的讨论。网络越发达，我们就越依赖。碎片化信息，要完成一个完整的思维过程变得愈加困难。（一如我以上写的这些碎片化文字。）
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后说一下这个版本的翻译，karchi我觉得翻译通畅，毫无违和感，保留了原书拉丁文的引用，并添加了注释，读起来原汁原味。总体而言，此书值得五星推荐。
-
-![封面](http://img5.douban.com/lpic/s4215409.jpg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《玫瑰的名字》豆瓣地址：<http://book.douban.com/subject/3836566/>
