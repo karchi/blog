@@ -17,6 +17,8 @@ date: 2013-6-16 17:39:00
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看完以后karchi我对于聚类和分类的区别还不是很清楚啊。
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2015-8-8更新：最近又读了几本关于数据挖掘的书，对于聚类和分类的区别好像有更进一步的了解：聚类是将一堆对象按照一定的区分规则划分为若干种类；分类是根据已有的区分规则和类别将待分类的对象归入其中。
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;豆瓣地址：[http://book.douban.com/subject/1121784/](http://book.douban.com/subject/1121784/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在亚马逊中搜索<a target="_blank" href="http://www.amazon.cn/gp/search?ie=UTF8&camp=536&creative=3200&index=books&keywords=%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98%E6%8A%80%E6%9C%AF&linkCode=ur2&tag=ruicao987-23">《数据挖掘技术》</a><img src="http://ir-cn.amazon-adsystem.com/e/ir?t=ruicao987-23&l=ur2&o=28" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
