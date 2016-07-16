@@ -4,7 +4,7 @@ baseurl: /blog
 url: 
 # 参见http://jekyllrb.com/docs/variables/#site-variables
 lsi: false
-highlighter: pygments
+highlighter: rouge
 safe: true
 auto: true 
 encoding: utf-8
